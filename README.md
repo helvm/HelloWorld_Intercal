@@ -1,2 +1,2 @@
-# HelloWorld_Intercal
-HelloWorld_Intercal
+# Hello, world! in Intercal
+# Author: IPOleksenko
